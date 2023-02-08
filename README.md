@@ -1,5 +1,5 @@
 # Tools
-Java programs - [Encrypt String](), [Parking Garage](), and [Inventory Tracker](). 
+Java programs - [Encrypt String](https://github.com/jeremiahtorralba/Tools/tree/main#encrypt-string), [Parking Garage](https://github.com/jeremiahtorralba/Tools/tree/main#parking-garage), and [Inventory Tracker](https://github.com/jeremiahtorralba/Tools/tree/main#inventory-tracker). 
 
 ### Encrypt String
 ![image](https://user-images.githubusercontent.com/28037427/217666710-3cc8fdab-b717-4262-bbe0-b1601566e5c5.png)
