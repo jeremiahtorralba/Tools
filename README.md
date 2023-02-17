@@ -1,4 +1,6 @@
 # Tools
+### Java application that has different functions, includes handling of syntax input errors.
+
 Java programs - [Encrypt String](https://github.com/jeremiahtorralba/Tools/tree/main#encrypt-string), [Parking Garage](https://github.com/jeremiahtorralba/Tools/tree/main#parking-garage), and [Inventory Tracker](https://github.com/jeremiahtorralba/Tools/tree/main#inventory-tracker). 
 
 ### Encrypt String
